@@ -1,0 +1,9 @@
+Tasks/
+venv/
+
+products/__pycache__/
+products/migrations/__pycache__/
+
+
+.idea/
+
